@@ -2,9 +2,9 @@
   "name": "algorithm",
   "version": "0.0.1",
   "description": "algorithm-test",
-  "main": "index.js",
+  "main": "",
   "scripts": {
-    "test": "jest ./src/async/promise.test.js"
+    "test": "jest ./src/longestPalindromic/index.test.js"
   },
   "author": "",
   "license": "ISC",
