@@ -4,7 +4,7 @@
   "description": "algorithm-test",
   "main": "",
   "scripts": {
-    "test": "jest ./src/atoi/index.test.js"
+    "test": "jest ./src/sumOfPairs/index.test.js"
   },
   "author": "",
   "license": "ISC",
