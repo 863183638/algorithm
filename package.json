@@ -4,7 +4,7 @@
   "description": "algorithm-test",
   "main": "",
   "scripts": {
-    "test": "jest ./src/validIP/index.test.js"
+    "test": "jest ./src/countingChangeCombinations/index.test.js"
   },
   "author": "",
   "license": "ISC",
